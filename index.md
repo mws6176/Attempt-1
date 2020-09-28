@@ -3,6 +3,8 @@ Welcome! This is my first ever creation of a site. I have very little experience
 
 # Photo of myself
 
+https://sites.psu.edu/mysite6176/files/2020/09/2020-09-28T23_37_14.787Z.jpg
+
 This is me!
 
 # Resume
