@@ -27,3 +27,10 @@ Attended Milford High School then Penn State Behrend. Worked various places duri
 * Problem Solving
 * Time Management
 * Communication
+
+# Hypothesis Annotations
+
+My experience of coding is limited to my work done in DIGIT 100. As of now this includes our annotation of course readings. This is where we as a class viewed the same articles and added questions and discussion points to discuss with each other. These are a few examples of my annotations:  
+https://sites.psu.edu/mysite6176/files/2020/09/Screen-Shot-2020-09-28-at-6.47.38-PM-1.png
+https://sites.psu.edu/mysite6176/files/2020/09/Screen-Shot-2020-09-28-at-6.50.06-PM.png
+https://sites.psu.edu/mysite6176/files/2020/09/Screen-Shot-2020-09-28-at-6.50.39-PM.png
