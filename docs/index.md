@@ -1,5 +1,2 @@
-<html>
-  <head><title>My new page</title>
-  </head>
-  <body><h1>Hello World! </body>
-    <hmtl>
+# Hello World!
+Welcome to my gethub pages account. 
