@@ -35,3 +35,7 @@ My experience of coding is limited to my work done in DIGIT 100. As of now this 
 https://sites.psu.edu/mysite6176/files/2020/09/Screen-Shot-2020-09-28-at-6.47.38-PM-1.png
 https://sites.psu.edu/mysite6176/files/2020/09/Screen-Shot-2020-09-28-at-6.50.06-PM.png
 https://sites.psu.edu/mysite6176/files/2020/09/Screen-Shot-2020-09-28-at-6.50.39-PM.png
+
+# Reflection
+
+Through creating this site on both websites, I found that I am better working with Sites. This application seemed more straightforward than Github. Although, If I were to have extensive prior knowledge of coding, Github would probably be easier to use since it is easier to get around within the application than Sites is. With edited and writing itself, I found Sites to be the simplest application to use. The layout of the actual website I felt was more clear in Sites as well. The link to the other version of my website can be found [here.](sites.psu.edu/mysite6176/)
