@@ -3,8 +3,6 @@ Welcome! This is my first ever creation of a site. I have very little experience
 
 # Photo of myself
 
-https://cdn.inst-fs-iad-prod.inscloudgate.net/34d66087-b69e-4460-871b-5601f940c869/2020-09-28T23%3A37%3A14.787Z.jpg?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCIsImtpZCI6ImNkbiJ9.eyJyZXNvdXJjZSI6Ii8zNGQ2NjA4Ny1iNjllLTQ0NjAtODcxYi01NjAxZjk0MGM4NjkvMjAyMC0wOS0yOFQyMyUzQTM3JTNBMTQuNzg3Wi5qcGciLCJ0ZW5hbnQiOiJjYW52YXMiLCJ1c2VyX2lkIjoiMTA1MDAwMDAwMDY5MDg5NTQiLCJpYXQiOjE2MDEzMzQzNDMsImV4cCI6MTYwMTQyMDc0M30.kbE-o_75yBFPfwGOR8mQ2vt93CTclu1b7RzP1jJleoVXY4HH9NwWsyxB2hCkcbIaceAdm9UPeOHMKFOhjIALEg&download=1&content_type=image%2Fjpeg
-
 This is me!
 
 # Resume
